@@ -14,7 +14,7 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "George Fincher",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
