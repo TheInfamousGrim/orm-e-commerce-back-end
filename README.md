@@ -64,7 +64,7 @@ In order to install this backend e-commerce app and test it you need to follow t
 
 3. Clone this repository into your local repository.
 
-   - `git clone git@github.com:TheInfamousGrim/sql-employee-tracker.git`.
+   - `git clone git@github.com:TheInfamousGrim/orm-e-commerce-back-end.git`.
 
 4. Install the dependencies to your package.json
 
