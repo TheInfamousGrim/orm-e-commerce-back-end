@@ -88,7 +88,7 @@ If you've followed these steps correctly then the application should be good to 
 
 ## Usage
 
-For a video of how to test the application please follow [this link](https://youtu.be/rWYocO9yQ7s)
+For a video of how to test the application please follow [this link](https://youtu.be/a-TJBFs2SRo)
 
 Written instructions:
 
